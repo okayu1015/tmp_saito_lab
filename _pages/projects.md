@@ -1,10 +1,11 @@
 ---
 layout: default
 permalink: /reserch/
-title: 研究/Research
+title: Research
 nav: true
 nav_order: 3
 ---
+## 研究/Research
 
 ### 人と協働して複雑なタスクを実行するAIを実現するための自然言語処理の研究 / Natural Language Processing for Enhancing Human-AI Collaboration
 人間が日常的に用いている自然言語やその周辺情報をコンピュータが理解し、高いレベルの知識処理を行うことによって、AIが人と協働しながら様々なタスクを行うことを目標として研究を行っています。AIが人と高いレベルで協働するためには、人がコミュニケーションに用いる自然言語を中心とした様々な情報を適切に理解・処理するとともに、処理した内容を自然言語として生成したり編集したりする能力が必要となります。
