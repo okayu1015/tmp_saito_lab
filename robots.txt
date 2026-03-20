@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://okayu1015.github.io/tmp_saito_lab/al-folio/sitemap.xml
