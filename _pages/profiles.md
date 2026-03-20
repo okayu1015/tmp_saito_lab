@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /members/
-title: members
+permalink: /Members/
+title: Members
 description: members of the lab
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 ## メンバー / Members
