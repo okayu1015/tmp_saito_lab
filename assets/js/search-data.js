@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tmp_saito_lab/publications/";
           },
-        },{id: "nav-研究-research",
-          title: "研究/Research",
+        },{id: "nav-research",
+          title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
