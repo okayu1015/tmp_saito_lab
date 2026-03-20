@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/tmp_saito_lab/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/tmp_saito_lab/Publications/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/tmp_saito_lab/research/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/tmp_saito_lab/Publications/";
           },
         },{id: "nav-members",
           title: "Members",
