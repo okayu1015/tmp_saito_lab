@@ -2,11 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: saito_itsumi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
@@ -26,9 +25,14 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+東北大学大学院 情報科学研究科 人間社会情報科学専攻 言語情報学研究室（齊藤いつみ研究室）
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Language Informatics Laboratory (Itsumi Saito Laboratory)
+Department of Human Social Information Sciences
+Graduate School of Information Sciences, Tohoku University
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+本研究室では、自然言語・画像・音声を統合的に理解し、人と円滑に協働できるAIの実現を目指しています。深層学習を基盤としながら、信頼性・柔軟性・理解しやすさを兼ね備えた知的システムの構築に取り組んでいます。
+本研究室は、東北大学を拠点とする自然言語処理・機械学習分野の研究連携組織である [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) の一研究室です。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our research explores multimodal AI systems that understand language, vision, and speech, enabling seamless human-AI collaboration. We focus on building intelligent systems that are reliable, flexible, and aligned with human communication.
+This laboratory is a member of the Tohoku NLP Group, a collaborative research group in natural language processing and machine learning at Tohoku University.
