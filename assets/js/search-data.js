@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/tmp_saito_lab/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-研究-research",
+          title: "研究/Research",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tmp_saito_lab/projects/";
+            window.location.href = "/tmp_saito_lab/reserch/";
           },
         },{id: "nav-teaching",
           title: "teaching",
