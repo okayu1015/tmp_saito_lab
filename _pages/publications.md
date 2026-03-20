@@ -16,6 +16,18 @@ nav_order: 2
 ### Journal / ジャーナル論文
 
 ### International Conference / 国際会議
+- Yui Oka, Itsumi Saito, Kyosuke Nishida and Kuniko Saito. 2026. Frequency Bands in RoPE: Base Frequency and Context Length Shape the Interpolation–Extrapolation Trade-off. ICLR 2026. :contentReference[oaicite:0]{index=0}
+- Itsumi Saito, Haruto Yoshida and Keisuke Sakaguchi. 2025. Sketch2Diagram: Generating Vector Diagrams from Hand-Drawn Sketches. ICLR 2025. :contentReference[oaicite:1]{index=1}
+- Ryota Tanaka, Kosuke Nishida, Kyosuke Nishida, Takumi Hasegawa, Itsumi Saito and Kuniko Saito. 2023. SlideVQA: A Dataset for Document Visual Question Answering on Multiple Images. AAAI 2023. :contentReference[oaicite:2]{index=2}
+- Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Sen Yoshida. 2021. Towards Interpretable and Reliable Reading Comprehension: A Pipeline Model with Unanswerability Prediction. IJCNN 2021. :contentReference[oaicite:3]{index=3}
+- Kosuke Nishida, Kyosuke Nishida, Itsumi Saito, Hisako Asano and Junji Tomita. 2020. Unsupervised Domain Adaptation of Language Models for Reading Comprehension. LREC 2020. :contentReference[oaicite:4]{index=4}
+- Kyosuke Nishida, Itsumi Saito, Kosuke Nishida, Kazutoshi Shinoda, Atsushi Otsuka, Hisako Asano and Junji Tomita. 2019. Multi-style Generative Reading Comprehension. ACL 2019. :contentReference[oaicite:5]{index=5}
+- Kosuke Nishida, Kyosuke Nishida, Masaaki Nagata, Atsushi Otsuka, Itsumi Saito, Hisako Asano and Junji Tomita. 2019. Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction. ACL 2019. :contentReference[oaicite:6]{index=6}
+- Itsumi Saito, Kyosuke Nishida, Hisako Asano and Junji Tomita. 2018. Commonsense Knowledge Base Completion and Generation. CoNLL 2018. :contentReference[oaicite:7]{index=7}
+- Itsumi Saito, Jun Suzuki, Kyosuke Nishida, Kugatsu Sadamitsu, Satoshi Kobashikawa, Ryo Masumura, Yuji Matsumoto and Junji Tomita. 2017. Improving Neural Text Normalization with Data Augmentation at Character- and Morphological Levels. IJCNLP 2017. :contentReference[oaicite:8]{index=8}
+- Itsumi Saito, Kyosuke Nishida, Kugatsu Sadamitsu, Kuniko Saito and Junji Tomita. 2017. Automatically Extracting Variant-Normalization Pairs for Japanese Text Normalization. IJCNLP 2017. :contentReference[oaicite:9]{index=9}
+- Kugatsu Sadamitsu, Itsumi Saito, Taichi Katayama, Hisako Asano and Yoshihiro Matsuo. 2016. Name Translation based on Fine-grained Named Entity Recognition in a Single Language. LREC 2016. :contentReference[oaicite:10]{index=10}
+- Itsumi Saito, Kugatsu Sadamitsu, Hisako Asano and Yoshihiro Matsuo. 2014. Morphological Analysis for Japanese Noisy Text based on Character-level and Word-level Normalization. COLING 2014. :contentReference[oaicite:11]{index=11}
 
 ### Non-refereed Papers / 査読なし論文
 
