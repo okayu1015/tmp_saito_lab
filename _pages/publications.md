@@ -29,7 +29,7 @@ nav_order: 2
 1. Itsumi Saito, Kyosuke Nishida, Kugatsu Sadamitsu, Kuniko Saito and Junji Tomita. 2017. Automatically Extracting Variant-Normalization Pairs for Japanese Text Normalization. IJCNLP 2017.
 1. Kugatsu Sadamitsu, Itsumi Saito, Taichi Katayama, Hisako Asano and Yoshihiro Matsuo. 2016. Name Translation based on Fine-grained Named Entity Recognition in a Single Language. LREC 2016. 
 1. Itsumi Saito, Kugatsu Sadamitsu, Hisako Asano and Yoshihiro Matsuo. 2014. Morphological Analysis for Japanese Noisy Text based on Character-level and Word-level Normalization. COLING 2014.
-- 
+
 ### Non-refereed Papers / 査読なし論文
 1. Itsumi Saito, Kyosuke Nishida, Kosuke Nishida, Atsushi Otsuka, Hisako Asano, Junji Tomita, Hiroyuki Shindo and Yuji Matsumoto. 2020. Length-controllable Abstractive Summarization by Guiding with Summary Prototype. arXiv preprint. 
 
