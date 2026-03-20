@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tmp_saito_lab/reserch/";
+            window.location.href = "/tmp_saito_lab/research/";
           },
         },{id: "nav-teaching",
           title: "teaching",
