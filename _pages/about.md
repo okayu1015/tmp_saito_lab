@@ -21,10 +21,10 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-東北大学大学院 情報科学研究科 人間社会情報科学専攻 言語情報学研究室（斉藤研）
+**東北大学大学院 情報科学研究科 人間社会情報科学専攻 言語情報学研究室（斉藤研）**
 
-Department of Human Social Information Sciences
-Graduate School of Information Sciences, Tohoku University
+**Department of Human Social Information Sciences
+Graduate School of Information Sciences, Tohoku University**
 
 本研究室では、自然言語・画像・音声を統合的に理解し、人と円滑に協働できるAIの実現を目指しています。
 本研究室は、東北大学を拠点とする自然言語処理・機械学習分野の研究連携組織である [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) の一研究室です。
