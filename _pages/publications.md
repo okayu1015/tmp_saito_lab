@@ -10,7 +10,8 @@ nav_order: 2
 - [Journal / ジャーナル論文](#journal--ジャーナル論文)
 - [International Conference / 国際会議](#international-conference--国際会議)
 - [Non-refereed Papers / 査読なし論文](#non-refereed-papers--査読なし論文)
-- [Domestic Conference (JP) / 国内論文](#国内論文)
+- [Domestic Conference / 国内論文](#domestic-conference--国内論文)
+
 ---
 
 ### Journal / ジャーナル論文
@@ -31,7 +32,7 @@ nav_order: 2
 
 ### Non-refereed Papers / 査読なし論文
 
-### Domestic Conference (JP) / 国内会議
+### Domestic Conference / 国内会議
 - 吉田 遥音, 工藤 慧音, 青木 洋一, 田中 涼太, 斉藤 いつみ, 坂口 慶祐, 乾 健太郎. 大規模視覚言語モデル内部におけるダイアグラムの表現形成過程. 言語処理学会第32回年次大会, 2026年3月. <span style="color:red;">優秀賞</span>
 - 岡 佑依, 斉藤 いつみ, 西田 京介. 位置符号化の基底拡大戦略は外挿性能を制限する. 言語処理学会第32回年次大会, 2026年3月. <span style="color:red;">優秀賞</span>
 - 吉田 遥音, 羽根田 賢和, 斉藤 いつみ, 坂口 慶祐. ASCII CHALLENGE−LLMは画家になれるか−. 言語処理学会第31回年次大会, 2025年3月.
