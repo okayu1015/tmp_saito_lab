@@ -10,7 +10,7 @@ nav_order: 2
 - [Journal / ジャーナル論文](#journal--ジャーナル論文)
 - [International Conference / 国際会議](#international-conference--国際会議)
 - [Non-refereed Papers / 査読なし論文](#non-refereed-papers--査読なし論文)
-- [国内論文](#国内論文)
+- [Domestic Conference (JP) / 国内論文](#国内論文)
 ---
 
 ### Journal / ジャーナル論文
