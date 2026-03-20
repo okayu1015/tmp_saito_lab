@@ -3,7 +3,7 @@ layout: default
 permalink: /Publications/
 title: Publications
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 ## 発表
 ---
