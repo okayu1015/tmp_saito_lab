@@ -17,3 +17,5 @@ Our research aims to help AI work in collaboration with humans on various tasks 
 We are currently developing technology that can simultaneously understand not only natural language but also image and speech inputs, and that also has the ability to flexibly summarize or edit that information in accordance with instructions by humans.
 Recent advancements in technology utilizing deep learning have significantly improved these capabilities but there are still challenges regarding the reliability of the generated information and the robustness against diverse inputs.
 Furthermore, in order to collaborate efficiently with humans, it is important to have technologies based on understanding human cognition and communication, such as accurately understanding the intentions behind instructions and presenting information in a format that humans can easily comprehend. We aim to address these challenges and build AI systems that provide advanced support for human activities.
+
+<img src="/assets/img/fig1_lais_230523.png" alt="hero" width="100%">
