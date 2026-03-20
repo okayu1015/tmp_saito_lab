@@ -21,9 +21,7 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-東北大学大学院 情報科学研究科 人間社会情報科学専攻 言語情報学研究室
-
-（齊藤いつみ研究室）
+東北大学大学院 情報科学研究科 人間社会情報科学専攻 言語情報学研究室（斉藤研）
 
 Department of Human Social Information Sciences
 Graduate School of Information Sciences, Tohoku University
